@@ -1,0 +1,9 @@
+station,line,to_platform,from_platform,total
+Bessarion,4 Sheppard,1512,1476,2988
+Ellesmere,3 Scarborough,1086,684,1770
+Midland,3 Scarborough,1338,1100,2438
+Bloor-Yonge,1 Yonge-University,93924,110703,204627
+Bloor-Yonge,2 Bloor-Danforth,96309,100155,196464
+St. George,1 Yonge-University,62131,64797,126928
+St. George,2 Bloor-Danforth,62668,62508,125176
+Union,1 Yonge-University,67881,60774,128655

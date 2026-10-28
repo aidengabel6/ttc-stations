@@ -1,0 +1,5 @@
+Bloor-Yonge,1 Yonge-University,93924,110703,204627
+Bloor-Yonge,2 Bloor-Danforth,96309,100155,196464
+St. George,1 Yonge-University,62131,64797,126928
+St. George,2 Bloor-Danforth,62668,62508,125176
+Union,1 Yonge-University,67881,60774,128655
